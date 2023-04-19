@@ -1,0 +1,4 @@
+outs:
+- md5: 94fa60c45130377887e1fed20fad7708
+  size: 574681139
+  path: vgg19.pth
